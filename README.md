@@ -7,5 +7,6 @@ This is a user-friendly app and is fully responsive.
 
 A glance of it:
 
+![TravelApp](https://user-images.githubusercontent.com/83290371/180951972-bd3ffd74-27f3-4493-9a05-45615af21d6d.png)
 
 
